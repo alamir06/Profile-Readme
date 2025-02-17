@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="300" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<img align="right" alt="Coding" width="100%" height="350" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 <h1 align="left">Hi! I'm Alamirew Wagaw✋</h1>
 <h3 align="left">🎓 Software Engineering Student | <br />💻 Passionate about Web Development & AI</h3><br />
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/10/03/58/99/240_F_1003589989_6NsF4FaseoJV1FKAgNupL9Vn879dvnhs.jpg">
